@@ -1,0 +1,56 @@
+a{
+	text-decoration: none;
+	color: white;
+}
+body{
+	padding: 0;
+	margin: 0;
+}
+nav{
+	padding: 25px 10px;
+} 
+.empty{
+	background-image:url('divback.png');
+	height: 400px;
+	width: 50%;
+	float: left;
+	background-repeat: no-repeat;
+}
+.text{
+	height: 400px;
+	width: 50%;
+	float: left;
+	font-size: 20px;
+}
+article{
+	height: 400px;
+	width: 100%;
+	float: left;
+	background:linear-gradient(to right, gray, black);
+	background: linear-gradient(to right, gray -30%, black 100%);
+}
+.text1{
+	height: 400px;
+	width: 50%;
+	float: left;
+	
+}
+.empty1{
+	font-size: 20px;
+	height: 400px;
+	width: 50%;
+	float: left;
+	color: white;
+}
+.mainh1{
+	font-size: 130px;
+}
+#knopka{
+	border: 15px solid black;
+	border-radius: 30px;
+	background-color: black;
+	color:white;
+	font-size: 30px;
+}
+
+
